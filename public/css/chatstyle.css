@@ -96,6 +96,7 @@ a {
 .chat-messages .message {
 	padding: 10px;
 	margin-bottom: 15px;
+	word-wrap: break-word;
 	background-color: var(--light-color);
 	border-radius: 5px;
 }
